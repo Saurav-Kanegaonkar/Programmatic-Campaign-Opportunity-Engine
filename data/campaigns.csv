@@ -1,0 +1,19 @@
+campaign_id,client_segment,vertical,primary_channel,geo_cluster,objective,budget,target_cpi,target_roas,launch_date,account_owner
+CMP001,Advertiser portfolio 01,Fintech app,Mobile UA,LATAM test,ROAS,490000,5.49,1.49,2026-02-06,Optimization pod
+CMP002,Advertiser portfolio 02,Retail marketplace,Mobile UA,US tier 1,ROAS,230000,6.94,1.51,2026-02-10,Growth analytics
+CMP003,Advertiser portfolio 03,Food delivery,Mobile UA,US tier 1,LTV,440000,6.74,1.71,2026-02-18,Client strategy
+CMP004,Advertiser portfolio 04,Mobile games,CTV assist,EMEA growth,paid installs,375000,4.45,1.97,2026-02-16,Growth analytics
+CMP005,Advertiser portfolio 05,Mobile games,Mobile UA,LATAM test,D7 retention,195000,2.91,1.83,2026-02-05,Optimization pod
+CMP006,Advertiser portfolio 06,Retail marketplace,Retargeting,LATAM test,ROAS,495000,6.01,1.58,2026-02-12,Client strategy
+CMP007,Advertiser portfolio 07,Fintech app,Retargeting,EMEA growth,D7 retention,245000,2.28,1.51,2026-02-18,Optimization pod
+CMP008,Advertiser portfolio 08,Food delivery,Mobile UA,APAC growth,reactivation,305000,3.38,1.64,2026-02-15,Growth analytics
+CMP009,Advertiser portfolio 09,Mobile games,Influencer assist,EMEA growth,LTV,390000,1.87,2.0,2026-02-05,Client strategy
+CMP010,Advertiser portfolio 10,Food delivery,Mobile UA,US tier 1,paid installs,370000,3.13,2.05,2026-02-15,Client strategy
+CMP011,Advertiser portfolio 11,Fintech app,Mobile UA,US tier 1,ROAS,250000,8.23,1.72,2026-02-15,Growth analytics
+CMP012,Advertiser portfolio 12,Food delivery,Mobile UA,APAC growth,paid installs,95000,3.0,1.43,2026-02-16,Optimization pod
+CMP013,Advertiser portfolio 13,Retail marketplace,Mobile UA,LATAM test,paid installs,285000,6.41,1.28,2026-02-19,Client strategy
+CMP014,Advertiser portfolio 14,Fintech app,CTV assist,APAC growth,D7 retention,65000,5.54,1.18,2026-02-05,Client strategy
+CMP015,Advertiser portfolio 15,Retail marketplace,Retargeting,APAC growth,LTV,295000,7.42,1.87,2026-02-18,Client strategy
+CMP016,Advertiser portfolio 16,Subscription wellness,Retargeting,LATAM test,D7 retention,245000,4.77,1.18,2026-02-19,Growth analytics
+CMP017,Advertiser portfolio 17,Travel booking,Influencer assist,US tier 1,D7 retention,425000,5.88,1.9,2026-02-04,Client strategy
+CMP018,Advertiser portfolio 18,Travel booking,CTV assist,LATAM test,D7 retention,70000,8.08,1.91,2026-02-07,Client strategy

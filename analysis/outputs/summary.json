@@ -1,0 +1,30 @@
+{
+  "seed": 20260519,
+  "campaigns": 18,
+  "daily_rows": 1260,
+  "contextual_signal_rows": 108,
+  "creative_rows": 90,
+  "qa_rows": 90,
+  "top_campaign": {
+    "campaign_id": "CMP016",
+    "client_segment": "Advertiser portfolio 16",
+    "vertical": "Subscription wellness",
+    "primary_channel": "Retargeting",
+    "geo_cluster": "LATAM test",
+    "budget": 245000,
+    "spend": 232166,
+    "avg_roas": 1.63,
+    "target_roas": 1.18,
+    "avg_cpi": 4.32,
+    "target_cpi": 4.77,
+    "d7_retention": 0.341,
+    "avg_win_rate": 0.253,
+    "opportunity_score": 82.5,
+    "estimated_missing_opportunity": 99146,
+    "primary_driver": "creative fatigue",
+    "next_action": "Rotate concept family and isolate winning creative dimensions",
+    "confidence": "Medium"
+  },
+  "modeled_missing_opportunity": 1827492,
+  "average_opportunity_score": 78.1
+}

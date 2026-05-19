@@ -1,0 +1,91 @@
+creative_id,campaign_id,concept,format,spend_share,thumbstop_rate,conversion_index,fatigue_score,learning_tag
+CMP009-CR05,CMP009,creator testimonial,creator cutdown,0.231,0.281,59.9,0.91,scale
+CMP015-CR04,CMP015,problem solution,static,0.197,0.274,60.2,0.91,holdout needed
+CMP012-CR03,CMP012,limited offer,static,0.092,0.33,69.4,0.903,scale
+CMP015-CR05,CMP015,creator testimonial,playable,0.18,0.37,73.6,0.902,scale
+CMP008-CR03,CMP008,limited offer,static,0.158,0.141,57.6,0.881,refresh hook
+CMP006-CR05,CMP006,creator testimonial,short video,0.143,0.291,46.3,0.875,scale
+CMP007-CR01,CMP007,social proof,static,0.063,0.12,60.9,0.819,refresh hook
+CMP016-CR04,CMP016,problem solution,CTV cutdown,0.22,0.158,76.8,0.801,holdout needed
+CMP002-CR04,CMP002,problem solution,short video,0.158,0.279,84.2,0.791,holdout needed
+CMP007-CR05,CMP007,creator testimonial,short video,0.319,0.213,91.8,0.758,scale
+CMP017-CR05,CMP017,creator testimonial,static,0.206,0.259,72.2,0.753,refresh hook
+CMP017-CR02,CMP017,progression reward,static,0.04,0.209,63.6,0.747,refresh hook
+CMP016-CR01,CMP016,social proof,CTV cutdown,0.232,0.307,80.4,0.746,refresh hook
+CMP016-CR05,CMP016,creator testimonial,short video,0.138,0.258,69.4,0.73,scale
+CMP004-CR02,CMP004,progression reward,creator cutdown,0.16,0.306,64.0,0.715,test CTA
+CMP003-CR01,CMP003,social proof,playable,0.216,0.272,68.5,0.708,scale
+CMP010-CR01,CMP010,social proof,CTV cutdown,0.18,0.306,75.4,0.684,scale
+CMP008-CR01,CMP008,social proof,creator cutdown,0.228,0.325,55.5,0.683,holdout needed
+CMP004-CR03,CMP004,limited offer,short video,0.17,0.208,85.6,0.68,holdout needed
+CMP005-CR03,CMP005,limited offer,CTV cutdown,0.275,0.371,51.7,0.668,test CTA
+CMP006-CR04,CMP006,problem solution,short video,0.04,0.244,65.3,0.665,scale
+CMP001-CR01,CMP001,social proof,playable,0.195,0.326,76.1,0.664,test CTA
+CMP013-CR05,CMP013,creator testimonial,CTV cutdown,0.262,0.22,45.2,0.656,scale
+CMP016-CR03,CMP016,limited offer,playable,0.203,0.271,65.2,0.654,scale
+CMP010-CR02,CMP010,progression reward,static,0.146,0.174,80.3,0.647,holdout needed
+CMP009-CR03,CMP009,limited offer,short video,0.199,0.244,37.3,0.646,holdout needed
+CMP014-CR04,CMP014,problem solution,creator cutdown,0.236,0.168,56.7,0.64,refresh hook
+CMP013-CR03,CMP013,limited offer,CTV cutdown,0.191,0.443,81.9,0.638,rotate audience
+CMP009-CR02,CMP009,progression reward,CTV cutdown,0.068,0.189,71.2,0.629,rotate audience
+CMP009-CR04,CMP009,problem solution,static,0.147,0.307,71.0,0.628,rotate audience
+CMP010-CR05,CMP010,creator testimonial,static,0.155,0.202,68.0,0.624,holdout needed
+CMP003-CR02,CMP003,progression reward,static,0.151,0.141,58.0,0.616,test CTA
+CMP009-CR01,CMP009,social proof,short video,0.162,0.369,55.4,0.597,test CTA
+CMP003-CR04,CMP003,problem solution,static,0.189,0.208,54.4,0.594,refresh hook
+CMP001-CR03,CMP001,limited offer,CTV cutdown,0.342,0.309,74.2,0.592,refresh hook
+CMP015-CR02,CMP015,progression reward,creator cutdown,0.24,0.231,84.0,0.589,scale
+CMP018-CR04,CMP018,problem solution,creator cutdown,0.094,0.309,75.5,0.586,holdout needed
+CMP017-CR03,CMP017,limited offer,short video,0.199,0.348,39.6,0.585,rotate audience
+CMP013-CR02,CMP013,progression reward,static,0.153,0.389,71.6,0.565,holdout needed
+CMP011-CR02,CMP011,progression reward,playable,0.073,0.213,64.7,0.56,test CTA
+CMP014-CR03,CMP014,limited offer,static,0.197,0.327,80.9,0.556,rotate audience
+CMP013-CR04,CMP013,problem solution,playable,0.165,0.379,44.7,0.553,holdout needed
+CMP011-CR04,CMP011,problem solution,creator cutdown,0.183,0.352,68.4,0.539,test CTA
+CMP003-CR05,CMP003,creator testimonial,short video,0.162,0.3,80.3,0.538,test CTA
+CMP012-CR05,CMP012,creator testimonial,creator cutdown,0.161,0.156,93.8,0.535,test CTA
+CMP016-CR02,CMP016,progression reward,playable,0.265,0.354,67.1,0.519,test CTA
+CMP007-CR03,CMP007,limited offer,static,0.269,0.289,92.5,0.514,test CTA
+CMP007-CR04,CMP007,problem solution,static,0.325,0.163,62.8,0.504,refresh hook
+CMP018-CR03,CMP018,limited offer,playable,0.248,0.133,84.7,0.503,test CTA
+CMP011-CR05,CMP011,creator testimonial,playable,0.188,0.272,85.3,0.503,test CTA
+CMP014-CR01,CMP014,social proof,playable,0.271,0.25,86.3,0.501,holdout needed
+CMP005-CR05,CMP005,creator testimonial,creator cutdown,0.165,0.408,67.5,0.496,test CTA
+CMP012-CR02,CMP012,progression reward,static,0.282,0.285,71.1,0.491,test CTA
+CMP018-CR05,CMP018,creator testimonial,playable,0.228,0.441,70.9,0.482,scale
+CMP015-CR03,CMP015,limited offer,playable,0.215,0.41,55.0,0.474,test CTA
+CMP008-CR05,CMP008,creator testimonial,CTV cutdown,0.27,0.352,69.1,0.455,rotate audience
+CMP014-CR05,CMP014,creator testimonial,creator cutdown,0.201,0.351,80.9,0.454,holdout needed
+CMP001-CR05,CMP001,creator testimonial,CTV cutdown,0.252,0.309,75.6,0.439,rotate audience
+CMP004-CR04,CMP004,problem solution,playable,0.244,0.248,84.5,0.439,rotate audience
+CMP001-CR04,CMP001,problem solution,short video,0.119,0.164,94.9,0.433,scale
+CMP012-CR04,CMP012,problem solution,static,0.266,0.202,52.6,0.431,scale
+CMP010-CR03,CMP010,limited offer,CTV cutdown,0.199,0.252,72.3,0.425,test CTA
+CMP002-CR03,CMP002,limited offer,creator cutdown,0.262,0.298,57.2,0.414,refresh hook
+CMP005-CR01,CMP005,social proof,CTV cutdown,0.212,0.227,53.1,0.412,refresh hook
+CMP001-CR02,CMP001,progression reward,creator cutdown,0.115,0.381,71.1,0.412,test CTA
+CMP006-CR02,CMP006,progression reward,short video,0.26,0.332,92.0,0.407,scale
+CMP002-CR01,CMP002,social proof,creator cutdown,0.136,0.209,66.8,0.404,rotate audience
+CMP013-CR01,CMP013,social proof,CTV cutdown,0.129,0.275,58.6,0.403,refresh hook
+CMP005-CR04,CMP005,problem solution,creator cutdown,0.135,0.304,60.6,0.4,rotate audience
+CMP017-CR01,CMP017,social proof,static,0.184,0.162,52.0,0.393,refresh hook
+CMP005-CR02,CMP005,progression reward,static,0.228,0.358,96.6,0.387,test CTA
+CMP014-CR02,CMP014,progression reward,CTV cutdown,0.155,0.327,49.2,0.386,test CTA
+CMP018-CR02,CMP018,progression reward,playable,0.227,0.231,68.6,0.385,scale
+CMP002-CR02,CMP002,progression reward,CTV cutdown,0.137,0.217,91.8,0.378,test CTA
+CMP012-CR01,CMP012,social proof,static,0.173,0.352,73.5,0.372,test CTA
+CMP018-CR01,CMP018,social proof,CTV cutdown,0.087,0.14,64.7,0.371,scale
+CMP008-CR04,CMP008,problem solution,playable,0.326,0.258,77.2,0.367,test CTA
+CMP011-CR03,CMP011,limited offer,CTV cutdown,0.28,0.332,56.6,0.36,holdout needed
+CMP004-CR05,CMP004,creator testimonial,creator cutdown,0.091,0.248,72.9,0.359,test CTA
+CMP003-CR03,CMP003,limited offer,static,0.242,0.338,59.8,0.354,scale
+CMP010-CR04,CMP010,problem solution,creator cutdown,0.168,0.34,88.5,0.35,refresh hook
+CMP017-CR04,CMP017,problem solution,playable,0.062,0.292,58.0,0.346,test CTA
+CMP007-CR02,CMP007,progression reward,playable,0.216,0.203,43.1,0.322,test CTA
+CMP004-CR01,CMP004,social proof,CTV cutdown,0.202,0.283,81.0,0.316,refresh hook
+CMP006-CR01,CMP006,social proof,short video,0.142,0.349,86.9,0.299,test CTA
+CMP002-CR05,CMP002,creator testimonial,creator cutdown,0.198,0.301,81.8,0.297,scale
+CMP008-CR02,CMP008,progression reward,static,0.162,0.204,83.2,0.297,refresh hook
+CMP015-CR01,CMP015,social proof,static,0.151,0.254,82.0,0.28,scale
+CMP006-CR03,CMP006,limited offer,CTV cutdown,0.093,0.421,91.8,0.219,rotate audience
+CMP011-CR01,CMP011,social proof,creator cutdown,0.101,0.12,49.9,0.14,refresh hook

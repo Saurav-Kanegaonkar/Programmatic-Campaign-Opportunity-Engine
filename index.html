@@ -6,49 +6,120 @@
   <title>Programmatic Campaign Opportunity Engine</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#0f766e;--bg:#eefdf8">
+<body>
   <main class="shell">
-    <header class="hero">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Scorecard / programmatic campaign optimization analytics</p>
-        <h1>Programmatic Campaign Opportunity Engine</h1>
+        <p class="eyebrow">Mobile programmatic analytics</p>
+        <h1>Campaign Opportunity Engine</h1>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy advertiser account-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
+      <div class="status-strip" aria-label="Portfolio summary">
+        <article>
+          <span>Campaigns</span>
+          <strong id="metricCampaigns">--</strong>
+        </article>
+        <article>
+          <span>Daily rows</span>
+          <strong id="metricRows">--</strong>
+        </article>
+        <article>
+          <span>Modeled upside</span>
+          <strong id="metricUpside">--</strong>
+        </article>
+      </div>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>advertiser accounts</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+
+    <nav class="tabs" aria-label="Analysis surfaces">
+      <button class="tab active" data-tab="cockpit" type="button">Opportunity</button>
+      <button class="tab" data-tab="signals" type="button">Signals</button>
+      <button class="tab" data-tab="quality" type="button">Creative + QA</button>
+    </nav>
+
+    <section class="surface active" id="cockpit" aria-labelledby="Opportunity">
+      <div class="surface-grid">
+        <article class="panel lead-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Ranked book</p>
+              <h2>Optimization queue</h2>
+            </div>
+            <output id="queueCount">--</output>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Campaign</th>
+                  <th>Channel</th>
+                  <th>ROAS</th>
+                  <th>CPI</th>
+                  <th>Score</th>
+                  <th>Driver</th>
+                  <th>Upside</th>
+                </tr>
+              </thead>
+              <tbody id="opportunityRows"></tbody>
+            </table>
+          </div>
+        </article>
+
+        <aside class="panel detail-panel">
+          <p class="eyebrow">Client brief</p>
+          <h2 id="selectedCampaign">--</h2>
+          <dl class="detail-list">
+            <div><dt>Segment</dt><dd id="detailSegment">--</dd></div>
+            <div><dt>Primary move</dt><dd id="detailAction">--</dd></div>
+            <div><dt>Confidence</dt><dd id="detailConfidence">--</dd></div>
+          </dl>
+          <div class="bars" id="scoreBars"></div>
+        </aside>
+      </div>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Metric ownership</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>advertiser account</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>KPI drift</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Roadmap opportunity</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+
+    <section class="surface" id="signals" aria-labelledby="Signals">
+      <div class="surface-grid alt">
+        <article class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Bid model</p>
+              <h2>Contextual value index</h2>
+            </div>
+            <output id="signalRowsCount">--</output>
+          </div>
+          <div class="signal-stack" id="signalCards"></div>
+        </article>
+
+        <article class="panel">
+          <p class="eyebrow">Signal mix</p>
+          <h2>Opportunity by context</h2>
+          <div class="context-chart" id="contextChart"></div>
+        </article>
+      </div>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value advertiser account segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="surface" id="quality" aria-labelledby="Creative and QA">
+      <div class="quality-grid">
+        <article class="panel">
+          <p class="eyebrow">Creative learning</p>
+          <h2>Fatigue and conversion matrix</h2>
+          <div class="creative-grid" id="creativeGrid"></div>
+        </article>
+
+        <article class="panel">
+          <p class="eyebrow">Measurement queue</p>
+          <h2>QA constraints</h2>
+          <div class="qa-list" id="qaList"></div>
+        </article>
+
+        <article class="panel recommendations-panel">
+          <p class="eyebrow">Recommendations</p>
+          <h2>Client-ready next steps</h2>
+          <div class="recommendation-list" id="recommendationList"></div>
+        </article>
+      </div>
     </section>
   </main>
+
+  <script type="module" src="src/app.js?v=4"></script>
 </body>
 </html>

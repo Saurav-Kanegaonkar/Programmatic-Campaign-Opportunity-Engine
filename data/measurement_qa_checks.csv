@@ -1,0 +1,91 @@
+qa_id,campaign_id,issue_type,issue_rate,affected_spend,severity_score,owner,status
+CMP001-QA01,CMP001,SKU or event mapping gap,0.113,38727,21.8,Client strategy,open
+CMP001-QA02,CMP001,late postback delivery,0.204,82043,43.0,Client strategy,monitoring
+CMP001-QA03,CMP001,audience overlap risk,0.178,63831,45.8,Data Science,ready for fix
+CMP001-QA04,CMP001,CTV to mobile attribution lag,0.127,70997,44.5,Client strategy,ready for fix
+CMP001-QA05,CMP001,creative taxonomy missing,0.224,82084,32.6,Client strategy,open
+CMP002-QA01,CMP002,SKU or event mapping gap,0.095,23756,20.7,Engineering,monitoring
+CMP002-QA02,CMP002,late postback delivery,0.054,13607,25.3,Analytics,open
+CMP002-QA03,CMP002,audience overlap risk,0.144,27468,42.2,Analytics,triaged
+CMP002-QA04,CMP002,CTV to mobile attribution lag,0.096,23175,42.6,Client strategy,open
+CMP002-QA05,CMP002,creative taxonomy missing,0.167,33838,43.1,Analytics,open
+CMP003-QA01,CMP003,SKU or event mapping gap,0.234,80070,55.7,Client strategy,ready for fix
+CMP003-QA02,CMP003,late postback delivery,0.087,41686,24.2,Data Science,open
+CMP003-QA03,CMP003,audience overlap risk,0.04,13884,27.2,Data Science,triaged
+CMP003-QA04,CMP003,CTV to mobile attribution lag,0.15,65467,26.6,Data Science,monitoring
+CMP003-QA05,CMP003,creative taxonomy missing,0.054,22070,27.1,Analytics,ready for fix
+CMP004-QA01,CMP004,SKU or event mapping gap,0.066,16502,17.4,Data Science,ready for fix
+CMP004-QA02,CMP004,late postback delivery,0.176,74209,27.6,Analytics,open
+CMP004-QA03,CMP004,audience overlap risk,0.053,17828,31.2,Analytics,monitoring
+CMP004-QA04,CMP004,CTV to mobile attribution lag,0.037,14503,27.1,Engineering,open
+CMP004-QA05,CMP004,creative taxonomy missing,0.043,14373,24.4,Analytics,open
+CMP005-QA01,CMP005,SKU or event mapping gap,0.183,41623,25.3,Data Science,monitoring
+CMP005-QA02,CMP005,late postback delivery,0.119,22415,40.9,Data Science,monitoring
+CMP005-QA03,CMP005,audience overlap risk,0.161,28762,43.1,Engineering,triaged
+CMP005-QA04,CMP005,CTV to mobile attribution lag,0.084,14516,20.8,Engineering,triaged
+CMP005-QA05,CMP005,creative taxonomy missing,0.106,22466,44.5,Client strategy,open
+CMP006-QA01,CMP006,SKU or event mapping gap,0.164,78689,48.5,Engineering,open
+CMP006-QA02,CMP006,late postback delivery,0.15,61861,47.5,Analytics,monitoring
+CMP006-QA03,CMP006,audience overlap risk,0.156,50345,41.8,Client strategy,triaged
+CMP006-QA04,CMP006,CTV to mobile attribution lag,0.115,42825,26.6,Client strategy,ready for fix
+CMP006-QA05,CMP006,creative taxonomy missing,0.198,109800,33.5,Client strategy,open
+CMP007-QA01,CMP007,SKU or event mapping gap,0.101,27120,21.8,Client strategy,triaged
+CMP007-QA02,CMP007,late postback delivery,0.157,29061,23.7,Data Science,ready for fix
+CMP007-QA03,CMP007,audience overlap risk,0.164,31925,49.2,Data Science,triaged
+CMP007-QA04,CMP007,CTV to mobile attribution lag,0.083,19503,40.7,Client strategy,open
+CMP007-QA05,CMP007,creative taxonomy missing,0.172,33317,40.8,Analytics,monitoring
+CMP008-QA01,CMP008,SKU or event mapping gap,0.11,35350,18.6,Engineering,monitoring
+CMP008-QA02,CMP008,late postback delivery,0.214,71334,30.9,Engineering,triaged
+CMP008-QA03,CMP008,audience overlap risk,0.126,36312,25.4,Analytics,triaged
+CMP008-QA04,CMP008,CTV to mobile attribution lag,0.089,22803,17.8,Data Science,open
+CMP008-QA05,CMP008,creative taxonomy missing,0.245,48826,52.3,Client strategy,monitoring
+CMP009-QA01,CMP009,SKU or event mapping gap,0.061,25167,25.9,Data Science,open
+CMP009-QA02,CMP009,late postback delivery,0.075,26121,13.7,Data Science,open
+CMP009-QA03,CMP009,audience overlap risk,0.076,21615,16.5,Data Science,monitoring
+CMP009-QA04,CMP009,CTV to mobile attribution lag,0.084,36030,25.8,Engineering,monitoring
+CMP009-QA05,CMP009,creative taxonomy missing,0.102,33714,30.9,Engineering,open
+CMP010-QA01,CMP010,SKU or event mapping gap,0.104,26154,30.9,Client strategy,triaged
+CMP010-QA02,CMP010,late postback delivery,0.058,20383,31.3,Client strategy,ready for fix
+CMP010-QA03,CMP010,audience overlap risk,0.195,76950,42.3,Analytics,monitoring
+CMP010-QA04,CMP010,CTV to mobile attribution lag,0.102,41829,21.6,Analytics,ready for fix
+CMP010-QA05,CMP010,creative taxonomy missing,0.161,68252,46.8,Analytics,ready for fix
+CMP011-QA01,CMP011,SKU or event mapping gap,0.099,28629,24.8,Analytics,open
+CMP011-QA02,CMP011,late postback delivery,0.083,18426,38.4,Analytics,triaged
+CMP011-QA03,CMP011,audience overlap risk,0.116,29713,32.6,Client strategy,open
+CMP011-QA04,CMP011,CTV to mobile attribution lag,0.146,33514,25.5,Data Science,ready for fix
+CMP011-QA05,CMP011,creative taxonomy missing,0.179,51113,37.2,Analytics,triaged
+CMP012-QA01,CMP012,SKU or event mapping gap,0.184,14250,46.5,Engineering,ready for fix
+CMP012-QA02,CMP012,late postback delivery,0.045,3809,13.7,Data Science,triaged
+CMP012-QA03,CMP012,audience overlap risk,0.102,9317,42.3,Data Science,ready for fix
+CMP012-QA04,CMP012,CTV to mobile attribution lag,0.098,10398,21.6,Engineering,triaged
+CMP012-QA05,CMP012,creative taxonomy missing,0.179,19666,36.0,Client strategy,ready for fix
+CMP013-QA01,CMP013,SKU or event mapping gap,0.208,60231,54.1,Client strategy,monitoring
+CMP013-QA02,CMP013,late postback delivery,0.093,22029,28.4,Client strategy,open
+CMP013-QA03,CMP013,audience overlap risk,0.161,49171,29.1,Client strategy,triaged
+CMP013-QA04,CMP013,CTV to mobile attribution lag,0.125,35279,20.9,Analytics,triaged
+CMP013-QA05,CMP013,creative taxonomy missing,0.091,29536,15.4,Client strategy,monitoring
+CMP014-QA01,CMP014,SKU or event mapping gap,0.05,2750,24.9,Data Science,triaged
+CMP014-QA02,CMP014,late postback delivery,0.113,7049,36.8,Data Science,triaged
+CMP014-QA03,CMP014,audience overlap risk,0.102,7008,29.9,Data Science,triaged
+CMP014-QA04,CMP014,CTV to mobile attribution lag,0.154,11233,27.4,Analytics,open
+CMP014-QA05,CMP014,creative taxonomy missing,0.254,14877,55.0,Data Science,open
+CMP015-QA01,CMP015,SKU or event mapping gap,0.093,21173,32.8,Analytics,monitoring
+CMP015-QA02,CMP015,late postback delivery,0.145,33463,33.4,Engineering,monitoring
+CMP015-QA03,CMP015,audience overlap risk,0.14,33340,30.9,Engineering,monitoring
+CMP015-QA04,CMP015,CTV to mobile attribution lag,0.117,23116,43.3,Client strategy,ready for fix
+CMP015-QA05,CMP015,creative taxonomy missing,0.155,31263,40.5,Data Science,monitoring
+CMP016-QA01,CMP016,SKU or event mapping gap,0.197,45359,41.1,Engineering,triaged
+CMP016-QA02,CMP016,late postback delivery,0.072,20695,28.9,Data Science,triaged
+CMP016-QA03,CMP016,audience overlap risk,0.171,30709,44.0,Data Science,ready for fix
+CMP016-QA04,CMP016,CTV to mobile attribution lag,0.028,7438,22.4,Engineering,ready for fix
+CMP016-QA05,CMP016,creative taxonomy missing,0.102,21102,37.2,Analytics,triaged
+CMP017-QA01,CMP017,SKU or event mapping gap,0.09,29432,27.0,Engineering,triaged
+CMP017-QA02,CMP017,late postback delivery,0.059,26088,33.0,Data Science,open
+CMP017-QA03,CMP017,audience overlap risk,0.158,64736,26.7,Analytics,triaged
+CMP017-QA04,CMP017,CTV to mobile attribution lag,0.022,7612,11.9,Engineering,ready for fix
+CMP017-QA05,CMP017,creative taxonomy missing,0.146,47871,20.7,Client strategy,ready for fix
+CMP018-QA01,CMP018,SKU or event mapping gap,0.144,10130,30.2,Client strategy,triaged
+CMP018-QA02,CMP018,late postback delivery,0.18,13261,39.7,Client strategy,monitoring
+CMP018-QA03,CMP018,audience overlap risk,0.111,6824,42.0,Engineering,monitoring
+CMP018-QA04,CMP018,CTV to mobile attribution lag,0.15,11687,26.2,Data Science,open
+CMP018-QA05,CMP018,creative taxonomy missing,0.258,18099,43.2,Engineering,ready for fix
